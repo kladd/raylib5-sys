@@ -1,0 +1,8 @@
+[package]
+name = "raylib5-sys"
+version = "5.0.0"
+edition = "2021"
+
+[build-dependencies]
+bindgen = "0.69.2"
+cmake = "0.1"
